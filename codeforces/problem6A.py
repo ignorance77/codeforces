@@ -22,4 +22,4 @@ else :
     if (segment) :
         print "SEGMENT"
     else :
-        print "IMPOSSIBLE"    
+        print "IMPOSSIBLE"
